@@ -2,7 +2,7 @@
 
 This repository contains the **artifact and code implementation** accompanying the paper:
 
-**“Measuring the Unobservable: Reconstructing Cybercriminal Operations from Victim Reports.”**
+**“What Victims Reveal About Attackers: An Indirect Measurement Framework for Cybercriminal Operations”**
 
 The artifact implements a framework for **inferring cybercriminal operational structure using victim-side complaint data**.
 
